@@ -22,11 +22,15 @@ pip install -r requirements.txt --target /path/to/target/Python
 
 Then zip the root folder named `'Python'` using:
 
-macOS Terminal: ```
+macOS Terminal: 
+```
 zip -r package.zip Python
 ```
 
-Windows Command Prompt: ```zip -r package.zip Python```
+Windows Command Prompt:
+```
+zip -r package.zip Python
+```
 
 Now, `package.zip` archive is ready to upload in lambda layer.
 Create a lambda layer with `Python 11` runtime and upload the zip file.
