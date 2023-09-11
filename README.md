@@ -1,2 +1,5 @@
-# TweetGPT_Lambda
-TweetGPT's AWS Lambda functions.
+# Lambda set up
+
+## Layer for required packages
+Python 11:
+Zip 
