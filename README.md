@@ -12,6 +12,7 @@ For each function, write (copy & paste) the code manually in function's codepad 
 ## Required packages
 
 Use `requirements.txt` file to install necessary packages into a folder named `Python`.
+
 (You should name as 'Python' for AWS to recognize the folder)
 
 Installation command:
@@ -19,7 +20,7 @@ Installation command:
 pip install -r requirements.txt --target /path/to/target/Python
 ```
 
-Then zip the root folder `'Python'` using:
+Then zip the root folder named `'Python'` using:
 
 macOS Terminal: ```zip -r package.zip Python```
 
