@@ -7,7 +7,7 @@ In this repo's case we're creating 2 lambda functions and name them;
 
 > respondGenerator
 
-For each function, write the code manually in function's codepad and deploy it.
+For each function, write (copy & paste) the code manually in function's codepad and deploy it.
 
 ## Required packages
 
