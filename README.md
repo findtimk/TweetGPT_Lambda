@@ -22,7 +22,9 @@ pip install -r requirements.txt --target /path/to/target/Python
 
 Then zip the root folder named `'Python'` using:
 
-macOS Terminal: ```zip -r package.zip Python```
+macOS Terminal: ```
+zip -r package.zip Python
+```
 
 Windows Command Prompt: ```zip -r package.zip Python```
 
