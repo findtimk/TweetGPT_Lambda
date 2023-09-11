@@ -10,7 +10,7 @@ In this repo's case we're creating 2 lambda functions and name them;
 ## Required packages
 
 Create a lambda layer with `Python 11` runtime for functions.
-Use `requirements.txt` file to install necassary packages into the folder named `Python`.
+Use `requirements.txt` file to install necessary packages into the folder named `Python`.
 
 (You should name as 'Python' for AWS to recognize the folder)
 
@@ -18,3 +18,12 @@ Installation command:
 ```
 pip install -r requirements.txt --target /path/to/target/Python
 ```
+
+Then zip the root folder `'Python'` using these commands;
+
+For Mac: ```zip -r package.zip Python```
+
+
+
+
+
