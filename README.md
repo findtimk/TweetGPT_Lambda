@@ -19,7 +19,7 @@ Installation command:
 pip install -r requirements.txt --target /path/to/target/Python
 ```
 
-Then zip the root folder `'Python'` using these commands;
+Then zip the root folder `'Python'` using:
 
 macOS Terminal: ```zip -r package.zip Python```
 
