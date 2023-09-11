@@ -7,6 +7,8 @@ In this repo's case we're creating 2 lambda functions and name them;
 
 > respondGenerator
 
+Write the code manually in function's console and deploy.
+
 ## Required packages
 
 Use `requirements.txt` file to install necessary packages into a folder named `Python`.
@@ -24,6 +26,8 @@ macOS Terminal: ```zip -r package.zip Python```
 Windows Command Prompt: ```zip -r package.zip Python```
 
 Now your `package.zip` archive is ready to upload in lambda layer.
-Create a lambda layer with `Python 11` runtime and upload the .zip file. 
+Create a lambda layer with `Python 11` runtime and upload the zip file.
+
+Add layer to both functions.
 
 
