@@ -26,9 +26,9 @@ macOS Terminal: ```zip -r package.zip Python```
 
 Windows Command Prompt: ```zip -r package.zip Python```
 
-Now your `package.zip` archive is ready to upload in lambda layer.
+Now, `package.zip` archive is ready to upload in lambda layer.
 Create a lambda layer with `Python 11` runtime and upload the zip file.
 
-Add layer to both functions.
+Add layer to each functions and test them by creating a test event.
 
 
