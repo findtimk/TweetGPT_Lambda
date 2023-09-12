@@ -1,6 +1,6 @@
 # Lambda set up
 
-Create lambda function with `Python 11` environment for each module you want to use.
+Create lambda function with `Python 3.11` environment for each module you want to use.
 
 In this repo's case we're creating 2 lambda functions and name them;
 > fakeTweetTracker
