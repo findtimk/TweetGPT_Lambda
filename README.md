@@ -2,7 +2,7 @@
 
 Create lambda function with `Python 3.11` environment for each module you want to use.
 
-In this repo's case we're creating 3 lambda functions and name them;
+In this repo's case we're creating 3 Lambda functions and name them;
 > fakeTweetTracker
 
 > respondGenerator
@@ -22,7 +22,7 @@ pip freeze > requirements.txt
 ```
 And install all dependencies to `Python` folder with this command:
 ```
-pip install -r requirements.txt --target /path/to/target/Python
+pip install -r requirements.txt --target /path/to/Python-folder
 ```
 
 ### Then zip the `Python` folder using:
